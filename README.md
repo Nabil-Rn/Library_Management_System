@@ -10,3 +10,6 @@
           Using C# Windows Forms App .NET Framework
                              
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+        Programming Patterns
