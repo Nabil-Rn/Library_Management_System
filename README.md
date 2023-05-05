@@ -3,7 +3,7 @@
          Library Management System for programming pattern
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
          
-         Team:  Nabil Ramadan, Ariel Wazana, Kevin Judal, Willit Chao.
+       Team:  Nabil Ramadan, Ariel Wazana, Kevin Judal, Willit Chao.
          
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                              
