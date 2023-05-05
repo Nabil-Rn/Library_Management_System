@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BookBST.Book">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <Members>
+      <Property Name="Author" Hidden="true" />
+      <Property Name="Isbn" Hidden="true" />
+      <Property Name="Rating" Hidden="true" />
+      <Property Name="Title" Hidden="true" />
+      <Property Name="Year" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAEAAgAAAAAAAAQAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookBST.BookBST">
+    <Position X="2.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="BookBST.BookBST.BookBSTNode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>BookBST.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAgwBAAAAAAIAAAAAAAAABAEAAA=</HashCode>
+      <FileName>BookBST.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BookBST.Program">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
